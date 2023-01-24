@@ -1,4 +1,4 @@
-## Hi, I am Iya. 
+## Hi, I am Iya and I am a Data Scientist.
 📊 Data Analytics
 🤖 Artificial Intelligence
 ⚙️ Machine Learning
