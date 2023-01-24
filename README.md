@@ -1,6 +1,7 @@
 ## Hi, I am Iya. 
-📊 Analytics
+📊 Data Analytics
 🤖 Artificial Intelligence
+⚙️ Machine Learning
 
 ### Languages
 <p align='left'>
