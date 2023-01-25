@@ -23,4 +23,4 @@ Tools I am using
 * [Mood Predictions Based on Personal Data Analysis](https://github.com/Chiviya01/Personal-data-analysis.-Mood-predicton-Project). This project was completed in Python with usage of AutoML and general Machine Learning. Feature engineering and Visual Data Analysis.
 * [Youtube Data Analysis](https://github.com/Chiviya01/YouTube-Data-Analysis). This project is a Big Data project. It was completed in Hive and PySpark.
 * [Diabetes predictions](). This project is a standart classification problem. Includdes Random Forest classification and AutoML.
-* [Music Recommender System](). A recommender system was created via TensorFlow. NLP tools for explanatiory AI, to provide more feedback to the users.
+* [Music Recommender System](https://github.com/Chiviya01/Recommender-System.git). A recommender system was created via TensorFlow. NLP tools for explanatiory AI, to provide more feedback to the users.
