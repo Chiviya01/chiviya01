@@ -2,6 +2,7 @@
 📊 Data Analytics
 🤖 Artificial Intelligence
 ⚙️ Machine Learning
+📈 Statistics
 
 ### Languages
 <p align='left'>
